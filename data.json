@@ -1,0 +1,20 @@
+[
+    {
+        "ishchi_nomi": "Jhon Doe",
+        "ish_joyi": "Hokimiyat",
+        "ish_vaqti": "9:00/18:00",
+        "daromadi": 2000000
+    },
+    {
+        "ishchi_nomi": "Kimsanboy",
+        "ish_joyi": "Vazirlik",
+        "ish_vaqti": "9:00/18:00",
+        "daromadi": 12000000
+    },
+    {
+        "ishchi_nomi": "Shohjahon",
+        "ish_joyi": "Google",
+        "ish_vaqti": "15:00/17:00",
+        "daromadi": "12000$"
+    }
+]
